@@ -4,6 +4,13 @@
     justify-content: center;
 }
 
+.style {
+    a.highlight:hover {
+        color: #ff0000;
+        font-size: 30px;
+}
+}
+
 body {
     background-image: url("bar.jpg");
   }
