@@ -1,0 +1,134 @@
+
+.center-box {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background-image: url("bar.jpg");
+  }
+
+.myname{
+    color:black(0, 255, 98);
+    text-align:center;
+    font-size: 2rem;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color:white;
+    max-width:fit-content;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+h3{
+    color:white;
+    font-size: 2rem;
+    font-family: cursive;
+    justify-content:center;
+    display: flex;
+    width: 200px;
+    margin:auto;
+    border: 5px solid ;
+      }
+
+p{
+    color:white;
+    font-size: 1.5rem;
+    justify-content:center ;
+    display: flex;
+}
+.s{
+    display:block;
+    justify-content: space-around;
+}
+.emoji {
+font-size: 3rem;
+}
+
+.center-me{
+    display: flex;
+    justify-content: center;
+}
+
+.birra{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5rem;
+    justify-content: center;
+    align-items:center;
+}
+
+
+.acqua{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5rem;
+    justify-content: center;
+    align-items:center;
+}
+
+.vinobianco{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5rem;
+    justify-content: center;
+    align-items:center;
+}
+
+.vinorosso{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5rem;
+    justify-content: center;
+    align-items:center;
+}
+
+.latte{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5rem;
+    justify-content: center;
+    align-items:center;
+}
+
+
+ul{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5rem;
+    color: white;
+
+
+}
+
+.highlight{
+    color:white;
+    font-size: 2rem;
+    font-family: cursive;
+    justify-content:center;
+    display: flex;
+    width: 200px;
+    margin:auto;
+    border: 5px solid ;
+}
